@@ -24,8 +24,7 @@ This beginner-friendly project presents a simple data visualization of Nigeria's
 3. The chart will be displayed and saved to your internal storage.
 
 ## Author
-Nodjirambaye Penset Eric  
-GitHub: [Eric D. Officiel](https://github.com/)  
+Nodjirambaye Penset Eric    
 LinkedIn: [Nodjirambaye Penset Eric](https://www.linkedin.com/in/nodjirambaye-penset-eric-6a1a591ab)
 
 ---
