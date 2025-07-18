@@ -20,4 +20,5 @@ The graph shows a clear rise in inflation between 2015 and 2023, peaking around 
 
 ## 💡 Author
 
-Nodjirambaye Penset Eric – [GitHub](https://github.com/djaston )| [LinkedIn](https://linkedin.com/in/your-profile)# Nigeria-Inflation-visualization-2010-2023
+Nodjirambaye Penset Eric 
+# Nigeria-Inflation-visualization-2010-2023
